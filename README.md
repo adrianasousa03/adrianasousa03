@@ -1,5 +1,17 @@
 ###                                                            Olá! Seja bem-vinda, seja bem-vindo!
 
+
+Estou estudando programação e buscando uma oportunidade como Desenvolvedor (a) Júnior Front End.
+
+✉️ Email: adriana.sousa.03@gmail.com
+
+👥 Conecte-se comigo por meu www.linkedin.com/in/adriana-sousa-dev
+
+💻 Estou estudando para melhorar sempre
+
+🔭 Atualmente estou procurando uma oportunidade de trabalho
+
+
 <!--
 **adrianasousa03/adrianasousa03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
