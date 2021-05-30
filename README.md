@@ -1,7 +1,8 @@
 ###                                                            Olá! Seja bem-vinda, seja bem-vindo!
 
 
-Estou estudando programação e aqui estão alguns códigos do meu aprendizado
+Estou estudando programação e aqui estão alguns códigos do meu aprendizado.
+
 ✉️ Email: adriana.sousa.03@gmail.com
 
 👥 Conecte-se comigo por meu www.linkedin.com/in/adriana-sousa-dev
