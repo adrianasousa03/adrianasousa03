@@ -5,7 +5,7 @@ Estou estudando programação e aqui estão alguns códigos do meu aprendizado.
 
 ✉️ Email: adriana.sousa.03@gmail.com
 
-👥 Conecte-se comigo por meu www.linkedin.com/in/adriana-sousa-dev
+👥 Conecte-se comigo por meu https://www.linkedin.com/in/adriana-sousa-ti/
 
 💻 Estou estudando para melhorar sempre
 
